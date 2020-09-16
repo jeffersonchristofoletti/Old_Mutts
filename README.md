@@ -1,9 +1,10 @@
 # Old_Mutts
 
-Repositório criado para armazenamento de códigos e materiais de estudo de Javascript e Node. js para desenvolvimento back-end, do grupo de estudos da página Old Mutts.
+Repositório criado para armazenamento de códigos e materiais de estudo de Javascript 
+e Node.js para desenvolvimento back-end, do grupo de estudos da página Old Mutts.
 https://www.facebook.com/OldMuttsDevs
 
-Nosso Whatsapp.
+Nosso Whatsapp: 
 https://chat.whatsapp.com/BlvRaK3T5HpKGtngkBlHL0
 
 
@@ -21,14 +22,18 @@ Por favor, instalem o Git de acordo com o seu sistema operacional.
 https://git-scm.com/downloads
 
 Sugestão de tutoriais de instalação do Git.
-https://www.youtube.com/watch?v=gMh6lrXibWY
-https://www.youtube.com/watch?v=SOxafinthys
-https://www.youtube.com/watch?v=ONztz-yh4jY
+1 - https://www.youtube.com/watch?v=gMh6lrXibWY;
+2 - https://www.youtube.com/watch?v=SOxafinthys;
+3 - https://www.youtube.com/watch?v=ONztz-yh4jY.
 
 *** *** ***
 
 Por favor, criem uma conta no Github ou usem uma já existente.
 https://github.com/
+
+Obs: dê um fork nesse repositório e crie uma branch com o seu nome para commitar seus arquivos. 
+
+*** *** ***
 
 Instalem a versão 12.18.4LTS do Node.js, para evitar divergências e erros desnecessários.
 https://nodejs.org/en/
