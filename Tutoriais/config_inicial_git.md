@@ -39,11 +39,11 @@ Os comandos a seguir devem ser digitados no terminal:
 Branches são ramificações do repositório principal, que chamamos de master. Você pode abrir tantas quantas branches quiser e, eventualmente, se as modificações propostas forem aceitas, elas serão incorporadas à master.
 
 1. Digite:
-   git checkout -b NOME DA BRANCH <-- Eu sugiro que seja o seu nome, mas pode ser qualquer outro nome que siga a convenção de nomenclatura do projeto.
+   git checkout -b NOMEDABRANCH <-- Eu sugiro que seja o seu nome, mas pode ser qualquer outro nome que siga a convenção de nomenclatura do projeto. NÃO PODE TER ESPAÇOS OU CARACTERES ESPECIAIS, exceto - para linkar as palavras.
 2. Liste as branches do repositório com o comando:
    git branch -a
 3. Mude de branch com o comando:
-   git checkout NOME DA BRANCH <-- Pode ser qualquer branch do projeto ou a master
+   git checkout NOMEDABRANCH <-- Pode ser qualquer branch do projeto ou a master
 
 # Vamos commitar?
 
@@ -66,8 +66,10 @@ O Git tem cinco áreas distintas, cada qual com a sua função:
    git log <-- mostra o log de todos os commits de todos os colaboradores em todas as branches
 5. (remoto) Repositório remoto:
    É o momento que mandamos tudo que foi commitado para o repositório remoto com o comando:
-   git push -u origin NOME DA BRANCH
+   git push -u origin NOMEDABRANCH
    git push <-- se for commitar direto na master, estando na master.
+
+   
 
 
    
